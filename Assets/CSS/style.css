@@ -1,0 +1,25 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1;
+  }
+  
+  .form-control-inline {
+    min-width: 0;
+    width: auto;
+    height: auto;
+    display: inline;
+}
+  .jumbotron {
+    text-align: center;
+    background-color: transparent;
+    color: black;
+    border-radius: 0;
+    border-bottom: 10px solid black;
+  }
+  #btn btn-success {
+    height: 40;
+    width: 70;
+  }
+
+  
